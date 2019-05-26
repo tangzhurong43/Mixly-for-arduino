@@ -1,2 +1,3 @@
 # Mixly-for-arduino
-To share how to play arduino with Mixly
+跟大家分享如何用米思齐软件玩转Arduino
+
